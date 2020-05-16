@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/vahiwe/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/vahiwe/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/duoarc/Rent-Prediction-App-Containerisation-Deployment.svg?style=svg)](https://github.com/duoarc/Rent-Prediction-App-Containerisation-Deployment)
 
 This project operationalizes a machine learning microservice using kubernetes, which is an open-source system for automating the management of containerized applications. A pre-trained sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on the data source site. This project operationalizes a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 
